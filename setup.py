@@ -5,10 +5,10 @@ from setuptools import setup, find_packages
 import sys
 import io
 
-version = '1.6.0'
-author = "Omoto Kenji"
+version = '1.6.1'
+author = "meatjam"
 license = "MIT License"
-author_email = 'doloopwhile@gmail.com'
+author_email = ''
 
 
 with io.open('README.rst', encoding='ascii') as fp:
@@ -17,13 +17,13 @@ with io.open('README.rst', encoding='ascii') as fp:
 setup(
     packages=find_packages(),
     include_package_data=True,
-    name='PyExecJS',
+    name='PyExecJS2',
     version=version,
     description='Run JavaScript code from Python',
     long_description=long_description,
     author=author,
     author_email=author_email,
-    url='https://github.com/doloopwhile/PyExecJS',
+    url='https://github.com/meatjam/PyExecJS',
     license=license,
     classifiers=[
         'Development Status :: 5 - Production/Stable',

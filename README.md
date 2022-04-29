@@ -1,15 +1,5 @@
-PyExecJS (EOL)
-==============
-[![Build Status](https://travis-ci.org/doloopwhile/PyExecJS.svg?branch=travis-ci)](https://travis-ci.org/doloopwhile/PyExecJS)
-
-# End of life
-
-This library is no longer maintananced ([Reason](https://gist.github.com/doloopwhile/8c6ec7dd4703e8a44e559411cb2ea221)).
-Bugs are not be fixed (even if they are trivial or essential).
-
-We suggest to use other library or to make a fork.
-
----
+# PyExecJS 
+This is just another customized version of original PyExecJS!
 
 Run JavaScript code from Python.
 
