@@ -1,3 +1,8 @@
+# PyExecJS2
+This is a new version based on the original PyExecJS.I've just added default encoding to "utf-8" in Popen().
+If you've got any encoding problem,this one may be the solution.
+
+=======================================
 # PyExecJS 
 This is just another customized version of original PyExecJS!
 
@@ -37,11 +42,11 @@ A short example:
 
 # Installation
 
-    $ pip install PyExecJS
+    $ pip install PyExecJS2
 
 or
 
-    $ easy_install PyExecJS
+    $ easy_install PyExecJS2
 
 # Details
 
